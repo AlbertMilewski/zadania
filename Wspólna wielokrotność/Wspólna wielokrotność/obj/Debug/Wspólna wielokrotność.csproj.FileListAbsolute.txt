@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\obj\Debug\Wspólna wielokrotność.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\obj\Debug\Wspólna wielokrotność.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\bin\Debug\Wspólna wielokrotność.exe.config
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\bin\Debug\Wspólna wielokrotność.exe
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\bin\Debug\Wspólna wielokrotność.pdb
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\obj\Debug\Wspólna wielokrotność.exe
+C:\Users\qcur1\source\repos\Wspólna wielokrotność\Wspólna wielokrotność\obj\Debug\Wspólna wielokrotność.pdb

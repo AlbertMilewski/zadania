@@ -1,0 +1,6 @@
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\bin\Debug\Algorytm Euklidesa.exe.config
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\bin\Debug\Algorytm Euklidesa.exe
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\bin\Debug\Algorytm Euklidesa.pdb
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\obj\Debug\Algorytm Euklidesa.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\obj\Debug\Algorytm Euklidesa.exe
+C:\Users\qcur1\source\repos\Algorytm Euklidesa\Algorytm Euklidesa\obj\Debug\Algorytm Euklidesa.pdb

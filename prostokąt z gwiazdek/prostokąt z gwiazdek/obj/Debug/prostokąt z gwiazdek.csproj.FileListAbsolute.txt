@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\bin\Debug\prostokąt z gwiazdek.exe.config
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\bin\Debug\prostokąt z gwiazdek.exe
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\bin\Debug\prostokąt z gwiazdek.pdb
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\obj\Debug\prostokąt z gwiazdek.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\obj\Debug\prostokąt z gwiazdek.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\obj\Debug\prostokąt z gwiazdek.exe
+C:\Users\qcur1\source\repos\prostokąt z gwiazdek\prostokąt z gwiazdek\obj\Debug\prostokąt z gwiazdek.pdb

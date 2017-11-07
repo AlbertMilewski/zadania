@@ -1,0 +1,14 @@
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\qcur1\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\obj\Debug\ConsoleApp7.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\qcur1\source\repos\Czy liczba jest parzysta\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

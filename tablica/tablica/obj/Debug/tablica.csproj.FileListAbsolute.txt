@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\tablica\tablica\obj\Debug\tablica.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\tablica\tablica\bin\Debug\tablica.exe.config
+C:\Users\qcur1\source\repos\tablica\tablica\bin\Debug\tablica.exe
+C:\Users\qcur1\source\repos\tablica\tablica\bin\Debug\tablica.pdb
+C:\Users\qcur1\source\repos\tablica\tablica\obj\Debug\tablica.exe
+C:\Users\qcur1\source\repos\tablica\tablica\obj\Debug\tablica.pdb
+C:\Users\qcur1\source\repos\tablica\tablica\obj\Debug\tablica.csprojResolveAssemblyReference.cache

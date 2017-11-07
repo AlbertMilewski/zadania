@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\obj\Debug\sortowanie laboratorium.csprojResolveAssemblyReference.cache
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\obj\Debug\sortowanie laboratorium.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\bin\Debug\sortowanie laboratorium.exe.config
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\bin\Debug\sortowanie laboratorium.exe
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\bin\Debug\sortowanie laboratorium.pdb
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\obj\Debug\sortowanie laboratorium.exe
+c:\users\qcur1\source\repos\sortowanie laboratorium\sortowanie laboratorium\obj\Debug\sortowanie laboratorium.pdb

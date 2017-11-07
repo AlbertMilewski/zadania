@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\obj\Debug\nieregularna tablica.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\obj\Debug\nieregularna tablica.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\bin\Debug\nieregularna tablica.exe.config
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\bin\Debug\nieregularna tablica.exe
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\bin\Debug\nieregularna tablica.pdb
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\obj\Debug\nieregularna tablica.exe
+C:\Users\qcur1\source\repos\nieregularna tablica\nieregularna tablica\obj\Debug\nieregularna tablica.pdb

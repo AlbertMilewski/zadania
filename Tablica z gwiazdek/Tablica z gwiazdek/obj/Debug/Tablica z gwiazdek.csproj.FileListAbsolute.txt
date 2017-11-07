@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\bin\Debug\Tablica z gwiazdek.exe.config
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\bin\Debug\Tablica z gwiazdek.exe
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\bin\Debug\Tablica z gwiazdek.pdb
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\obj\Debug\Tablica z gwiazdek.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\obj\Debug\Tablica z gwiazdek.exe
+c:\users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\obj\Debug\Tablica z gwiazdek.pdb
+C:\Users\qcur1\source\repos\Tablica z gwiazdek\Tablica z gwiazdek\obj\Debug\Tablica z gwiazdek.csprojResolveAssemblyReference.cache

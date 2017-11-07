@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\qcur1\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

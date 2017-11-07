@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obliczanie wartości wyrazenia", "Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia.csproj", "{5B357971-4016-41B9-98C7-483A83A8A3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B357971-4016-41B9-98C7-483A83A8A3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B357971-4016-41B9-98C7-483A83A8A3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B357971-4016-41B9-98C7-483A83A8A3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B357971-4016-41B9-98C7-483A83A8A3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3959792-727A-4A51-9D65-29104D39BD14}
+	EndGlobalSection
+EndGlobal

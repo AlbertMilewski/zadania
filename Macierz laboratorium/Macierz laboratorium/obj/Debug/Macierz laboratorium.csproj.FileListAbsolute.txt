@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\obj\Debug\Macierz laboratorium.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\obj\Debug\Macierz laboratorium.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\bin\Debug\Macierz laboratorium.exe.config
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\bin\Debug\Macierz laboratorium.exe
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\bin\Debug\Macierz laboratorium.pdb
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\obj\Debug\Macierz laboratorium.exe
+C:\Users\qcur1\source\repos\Macierz laboratorium\Macierz laboratorium\obj\Debug\Macierz laboratorium.pdb

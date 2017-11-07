@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\obj\Debug\liczby w odwrotnej kolejności.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\obj\Debug\liczby w odwrotnej kolejności.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\bin\Debug\liczby w odwrotnej kolejności.exe.config
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\bin\Debug\liczby w odwrotnej kolejności.exe
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\bin\Debug\liczby w odwrotnej kolejności.pdb
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\obj\Debug\liczby w odwrotnej kolejności.exe
+C:\Users\qcur1\source\repos\liczby w odwrotnej kolejności\liczby w odwrotnej kolejności\obj\Debug\liczby w odwrotnej kolejności.pdb

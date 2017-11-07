@@ -1,0 +1,6 @@
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\obj\Debug\Obliczanie wartości wyrazenia.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\bin\Debug\Obliczanie wartości wyrazenia.exe.config
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\bin\Debug\Obliczanie wartości wyrazenia.exe
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\bin\Debug\Obliczanie wartości wyrazenia.pdb
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\obj\Debug\Obliczanie wartości wyrazenia.exe
+C:\Users\qcur1\source\repos\Obliczanie wartości wyrazenia\Obliczanie wartości wyrazenia\obj\Debug\Obliczanie wartości wyrazenia.pdb

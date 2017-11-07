@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\bin\Debug\Liczby pierwsze podane przez użytkownika.exe.config
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\bin\Debug\Liczby pierwsze podane przez użytkownika.exe
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\bin\Debug\Liczby pierwsze podane przez użytkownika.pdb
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\obj\Debug\Liczby pierwsze podane przez użytkownika.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\obj\Debug\Liczby pierwsze podane przez użytkownika.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\obj\Debug\Liczby pierwsze podane przez użytkownika.exe
+C:\Users\qcur1\source\repos\Liczby pierwsze podane przez użytkownika\Liczby pierwsze podane przez użytkownika\obj\Debug\Liczby pierwsze podane przez użytkownika.pdb

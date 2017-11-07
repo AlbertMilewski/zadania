@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe.config
+C:\Users\qcur1\source\repos\Silnia\Silnia\bin\Debug\Silnia.exe
+C:\Users\qcur1\source\repos\Silnia\Silnia\bin\Debug\Silnia.pdb
+C:\Users\qcur1\source\repos\Silnia\Silnia\obj\Debug\Silnia.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Silnia\Silnia\obj\Debug\Silnia.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Silnia\Silnia\obj\Debug\Silnia.exe
+C:\Users\qcur1\source\repos\Silnia\Silnia\obj\Debug\Silnia.pdb

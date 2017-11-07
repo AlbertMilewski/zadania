@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\macierz\macierz\obj\Debug\macierz.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\macierz\macierz\obj\Debug\macierz.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\macierz\macierz\bin\Debug\macierz.exe.config
+C:\Users\qcur1\source\repos\macierz\macierz\bin\Debug\macierz.exe
+C:\Users\qcur1\source\repos\macierz\macierz\bin\Debug\macierz.pdb
+C:\Users\qcur1\source\repos\macierz\macierz\obj\Debug\macierz.exe
+C:\Users\qcur1\source\repos\macierz\macierz\obj\Debug\macierz.pdb

@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Choinka\Choinka\bin\Debug\Choinka.exe.config
+C:\Users\qcur1\source\repos\Choinka\Choinka\bin\Debug\Choinka.exe
+C:\Users\qcur1\source\repos\Choinka\Choinka\bin\Debug\Choinka.pdb
+C:\Users\qcur1\source\repos\Choinka\Choinka\obj\Debug\Choinka.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Choinka\Choinka\obj\Debug\Choinka.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Choinka\Choinka\obj\Debug\Choinka.exe
+C:\Users\qcur1\source\repos\Choinka\Choinka\obj\Debug\Choinka.pdb

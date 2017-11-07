@@ -1,0 +1,6 @@
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\bin\Debug\Sprawdzenie czy jest liczbą pierwszą.exe.config
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\bin\Debug\Sprawdzenie czy jest liczbą pierwszą.exe
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\bin\Debug\Sprawdzenie czy jest liczbą pierwszą.pdb
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\obj\Debug\Sprawdzenie czy jest liczbą pierwszą.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\obj\Debug\Sprawdzenie czy jest liczbą pierwszą.exe
+C:\Users\qcur1\source\repos\Sprawdzenie czy jest liczbą pierwszą\Sprawdzenie czy jest liczbą pierwszą\obj\Debug\Sprawdzenie czy jest liczbą pierwszą.pdb

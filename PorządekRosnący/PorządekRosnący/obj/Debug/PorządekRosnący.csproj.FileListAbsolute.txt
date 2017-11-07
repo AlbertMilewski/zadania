@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\obj\Debug\PorządekRosnący.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\obj\Debug\PorządekRosnący.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\bin\Debug\PorządekRosnący.exe.config
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\bin\Debug\PorządekRosnący.exe
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\bin\Debug\PorządekRosnący.pdb
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\obj\Debug\PorządekRosnący.exe
+C:\Users\qcur1\source\repos\PorządekRosnący\PorządekRosnący\obj\Debug\PorządekRosnący.pdb

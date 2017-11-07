@@ -1,0 +1,6 @@
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\obj\Debug\Wieża z gwiazdek.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\bin\Debug\Wieża z gwiazdek.exe.config
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\bin\Debug\Wieża z gwiazdek.exe
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\bin\Debug\Wieża z gwiazdek.pdb
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\obj\Debug\Wieża z gwiazdek.exe
+C:\Users\qcur1\source\repos\Wieża z gwiazdek\Wieża z gwiazdek\obj\Debug\Wieża z gwiazdek.pdb

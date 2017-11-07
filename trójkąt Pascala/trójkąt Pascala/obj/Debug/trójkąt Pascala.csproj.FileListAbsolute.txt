@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\bin\Debug\trójkąt Pascala.exe.config
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\bin\Debug\trójkąt Pascala.exe
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\bin\Debug\trójkąt Pascala.pdb
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\obj\Debug\trójkąt Pascala.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\obj\Debug\trójkąt Pascala.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\obj\Debug\trójkąt Pascala.exe
+C:\Users\qcur1\source\repos\trójkąt Pascala\trójkąt Pascala\obj\Debug\trójkąt Pascala.pdb

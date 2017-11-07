@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.exe.config
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.exe
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\bin\Debug\sortowanie.pdb
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.exe
+C:\Users\qcur1\source\repos\sortowanie\sortowanie\obj\Debug\sortowanie.pdb
