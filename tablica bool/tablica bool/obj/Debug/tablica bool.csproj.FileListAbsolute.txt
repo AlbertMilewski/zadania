@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\tablica bool\tablica bool\obj\Debug\tablica bool.csprojResolveAssemblyReference.cache
+c:\users\qcur1\source\repos\tablica bool\tablica bool\obj\Debug\tablica bool.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\tablica bool\tablica bool\bin\Debug\tablica bool.exe.config
+c:\users\qcur1\source\repos\tablica bool\tablica bool\bin\Debug\tablica bool.exe
+c:\users\qcur1\source\repos\tablica bool\tablica bool\bin\Debug\tablica bool.pdb
+c:\users\qcur1\source\repos\tablica bool\tablica bool\obj\Debug\tablica bool.exe
+c:\users\qcur1\source\repos\tablica bool\tablica bool\obj\Debug\tablica bool.pdb
