@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\wielomian\wielomian\bin\Debug\wielomian.exe.config
+c:\users\qcur1\source\repos\wielomian\wielomian\bin\Debug\wielomian.exe
+c:\users\qcur1\source\repos\wielomian\wielomian\bin\Debug\wielomian.pdb
+c:\users\qcur1\source\repos\wielomian\wielomian\obj\Debug\wielomian.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\wielomian\wielomian\obj\Debug\wielomian.exe
+c:\users\qcur1\source\repos\wielomian\wielomian\obj\Debug\wielomian.pdb
+c:\users\qcur1\source\repos\wielomian\wielomian\obj\Debug\wielomian.csprojResolveAssemblyReference.cache
