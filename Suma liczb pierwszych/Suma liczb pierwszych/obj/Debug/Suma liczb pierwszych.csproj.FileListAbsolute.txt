@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\obj\Debug\Suma liczb pierwszych.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\obj\Debug\Suma liczb pierwszych.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\bin\Debug\Suma liczb pierwszych.exe.config
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\bin\Debug\Suma liczb pierwszych.exe
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\bin\Debug\Suma liczb pierwszych.pdb
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\obj\Debug\Suma liczb pierwszych.exe
+C:\Users\qcur1\source\repos\Suma liczb pierwszych\Suma liczb pierwszych\obj\Debug\Suma liczb pierwszych.pdb
