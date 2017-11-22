@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\gra\gra\obj\Debug\gra.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\gra\gra\obj\Debug\gra.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\gra\gra\bin\Debug\gra.exe.config
+C:\Users\qcur1\source\repos\gra\gra\bin\Debug\gra.exe
+C:\Users\qcur1\source\repos\gra\gra\bin\Debug\gra.pdb
+C:\Users\qcur1\source\repos\gra\gra\obj\Debug\gra.exe
+C:\Users\qcur1\source\repos\gra\gra\obj\Debug\gra.pdb
