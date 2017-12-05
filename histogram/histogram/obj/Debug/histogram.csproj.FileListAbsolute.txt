@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\histogram\histogram\bin\Debug\histogram.exe.config
+C:\Users\qcur1\source\repos\histogram\histogram\bin\Debug\histogram.exe
+C:\Users\qcur1\source\repos\histogram\histogram\bin\Debug\histogram.pdb
+C:\Users\qcur1\source\repos\histogram\histogram\obj\Debug\histogram.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\histogram\histogram\obj\Debug\histogram.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\histogram\histogram\obj\Debug\histogram.exe
+C:\Users\qcur1\source\repos\histogram\histogram\obj\Debug\histogram.pdb
