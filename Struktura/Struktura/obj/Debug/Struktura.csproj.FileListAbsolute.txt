@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Struktura\Struktura\bin\Debug\Struktura.exe.config
+C:\Users\qcur1\source\repos\Struktura\Struktura\bin\Debug\Struktura.exe
+C:\Users\qcur1\source\repos\Struktura\Struktura\bin\Debug\Struktura.pdb
+C:\Users\qcur1\source\repos\Struktura\Struktura\obj\Debug\Struktura.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Struktura\Struktura\obj\Debug\Struktura.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Struktura\Struktura\obj\Debug\Struktura.exe
+C:\Users\qcur1\source\repos\Struktura\Struktura\obj\Debug\Struktura.pdb
