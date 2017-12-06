@@ -1,0 +1,6 @@
+c:\users\qcur1\source\repos\próba\próba\bin\Debug\próba.exe.config
+c:\users\qcur1\source\repos\próba\próba\bin\Debug\próba.exe
+c:\users\qcur1\source\repos\próba\próba\bin\Debug\próba.pdb
+c:\users\qcur1\source\repos\próba\próba\obj\Debug\próba.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\próba\próba\obj\Debug\próba.exe
+c:\users\qcur1\source\repos\próba\próba\obj\Debug\próba.pdb
