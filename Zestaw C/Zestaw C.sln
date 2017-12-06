@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zestaw C", "Zestaw C\Zestaw C.csproj", "{CACC819A-A637-457B-8E7A-B6323D49FC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACC819A-A637-457B-8E7A-B6323D49FC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACC819A-A637-457B-8E7A-B6323D49FC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACC819A-A637-457B-8E7A-B6323D49FC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACC819A-A637-457B-8E7A-B6323D49FC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E81AE4-594B-48A1-A9A2-8FBBC2D6EDC1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\bin\Debug\Zestaw C.exe.config
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\bin\Debug\Zestaw C.exe
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\bin\Debug\Zestaw C.pdb
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\obj\Debug\Zestaw C.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\obj\Debug\Zestaw C.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\obj\Debug\Zestaw C.exe
+C:\Users\qcur1\source\repos\Zestaw C\Zestaw C\obj\Debug\Zestaw C.pdb
