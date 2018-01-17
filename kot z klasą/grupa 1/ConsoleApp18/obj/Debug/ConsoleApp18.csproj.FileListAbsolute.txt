@@ -1,0 +1,14 @@
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\qcur1\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\obj\Debug\ConsoleApp18.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\qcur1\Desktop\kolkowium\grupa 1\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
