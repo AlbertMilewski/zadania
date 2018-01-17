@@ -1,0 +1,7 @@
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\obj\Debug\Kolokwium 7.csprojResolveAssemblyReference.cache
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\obj\Debug\Kolokwium 7.csproj.CoreCompileInputs.cache
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\bin\Debug\Kolokwium 7.exe.config
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\bin\Debug\Kolokwium 7.exe
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\bin\Debug\Kolokwium 7.pdb
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\obj\Debug\Kolokwium 7.exe
+C:\Users\qcur1\source\repos\Kolokwium 7\Kolokwium 7\obj\Debug\Kolokwium 7.pdb

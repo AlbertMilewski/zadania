@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\bin\Debug\kolokwium 4.exe.config
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\bin\Debug\kolokwium 4.exe
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\bin\Debug\kolokwium 4.pdb
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\obj\Debug\kolokwium 4.csprojResolveAssemblyReference.cache
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\obj\Debug\kolokwium 4.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\obj\Debug\kolokwium 4.exe
+c:\users\qcur1\source\repos\kolokwium 4\kolokwium 4\obj\Debug\kolokwium 4.pdb
