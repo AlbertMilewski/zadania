@@ -1,0 +1,377 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Diagnostics;
+
+
+namespace Projekt3_Pomiary
+{
+    class Program
+    {
+        static void GenInc(int[] inc)
+        {
+
+            for (int i = 1; i <= inc.Length; i++)
+            {
+                inc[i - 1] = i;
+            }
+        }
+        static void GenDec(ref int[] dec, int[] inc)
+        {
+
+            dec = inc;
+            Array.Reverse(dec);
+        }
+        static void GenRan(int[] ran)
+        {
+            Random rnd = new Random();
+            for (int i = 0; i < ran.Length; i++)
+            {
+                ran[i] = rnd.Next();
+            }
+        }
+        static void GenV_shaped(int[] V_shaped, int num)
+        {
+            int x = 0;
+
+            for (int i = num; i > 0; i -= 2)
+            {
+                V_shaped[x++] = i;
+            }
+
+            for (int i = 1; i < num; i += 2)
+            {
+                V_shaped[x++] = i;
+            }
+
+        }
+        static void GenA_shaped(int[] A_shaped, int num)
+        {
+            int y = 0;
+            for (int i = 1; i < num; i += 2)
+            {
+                A_shaped[y++] = i;
+            }
+            for (int i = num; i > 0; i -= 2)
+            {
+                A_shaped[y++] = i;
+            }
+        }
+
+        static double pomiar;
+
+        static void InsertionSort(int[] t)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            for (uint i = 1; i < t.Length; i++)
+            {
+                uint j = i; // elementy 0 .. i-1 są już posortowane
+                int Buf = t[j]; // bierzemy i-ty (j-ty) element
+                while ((j > 0) && (t[j - 1] > Buf))
+                { // przesuwamy elementy
+                    t[j] = t[j - 1];
+                    j--;
+                }
+                t[j] = Buf; // i wpisujemy na docelowe miejsce
+            }
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        }
+
+        static void SelectionSort(int[] t)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            uint k;
+            for (uint i = 0; i < (t.Length - 1); i++)
+            {
+                int Buf = t[i]; // bierzemy i-ty element
+                k = i; // i jego indeks
+                for (uint j = i + 1; j < t.Length; j++)
+                    if (t[j] < Buf) // szukamy najmniejszego z prawej
+                    {
+                        k = j;
+                        Buf = t[j];
+                    }
+                t[k] = t[i]; // zamieniamy i-ty z k-tym
+                t[i] = Buf;
+            }
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        }
+
+        static void CocktailSort(int[] t)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            int Left = 1, Right = t.Length - 1, k = t.Length - 1;
+            do
+            {
+                for (int j = Right; j >= Left; j--) // przesiewanie od dołu
+                    if (t[j - 1] > t[j])
+                    {
+                        int Buf = t[j - 1]; t[j - 1] = t[j]; t[j] = Buf;
+                        k = j; // zamiana elementów i zapamiętanie indeksu
+                    }
+                Left = k + 1; // zacieśnienie lewej granicy
+                for (int j = Left; j <= Right; j++) // przesiewanie od góry
+                    if (t[j - 1] > t[j])
+                    {
+                        int Buf = t[j - 1]; t[j - 1] = t[j]; t[j] = Buf;
+                        k = j; // zamiana elementów i zapamiętanie indeksu
+                    }
+                Right = k - 1; // zacieśnienie prawej granicy
+            }
+            while (Left <= Right);
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        }
+
+        static void Heapify(int[] t, uint left, uint right)
+        { 
+
+            // procedura budowania/naprawiania kopca
+            uint i = left,
+            j = 2 * i + 1;
+            int buf = t[i]; // ojciec
+            while (j <= right) // przesiewamy do dna stogu
+            {
+                if (j < right) // wybieramy większego syna
+                    if (t[j] < t[j + 1]) j++;
+                if (buf >= t[j]) break;
+                t[i] = t[j];
+                i = j;
+                j = 2 * i + 1; // przechodzimy do dzieci syna
+            }
+            t[i] = buf;
+        } /* Heapify() */
+
+        static void HeapSort(int[] t)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            uint left = ((uint)t.Length / 2),
+            right = (uint)t.Length - 1;
+            while (left > 0) // budujemy kopiec idąc od połowy tablicy
+            {
+                left--;
+                Heapify(t, left, right);
+            }
+            while (right > 0) // rozbieramy kopiec
+            {
+                int buf = t[left];
+                t[left] = t[right];
+                t[right] = buf; // największy element
+                right--; // kopiec jest mniejszy
+                Heapify(t, left, right); // ale trzeba go naprawić
+            }
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        } /* HeapSort() */
+
+        static void Qsortreq(int[] t, int l, int p)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            int i, j, x;
+            i = l;
+            j = p;
+            x = t[(l + p) / 2]; // (pseudo)mediana
+            do
+            {
+                while (t[i] < x) i++; // przesuwamy indeksy z lewej
+                while (x < t[j]) j--; // przesuwamy indeksy z prawej
+                if (i <= j) // jeśli nie minęliśmy się indeksami (koniec kroku)
+                { // zamieniamy elementy
+                    int buf = t[i]; t[i] = t[j]; t[j] = buf;
+                    i++; j--;
+                }
+            }
+            while (i <= j);
+            if (l < j) Qsortreq(t, l, j); // sortujemy lewą część (jeśli jest)
+            if (i < p) Qsortreq(t, i, p); // sortujemy prawą część (jeśli jest)
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        } /* qsort() */
+
+        static void Qsortite(int[] t)
+        {
+            pomiar = 0;
+            long StartingTime = Stopwatch.GetTimestamp();
+            int i, j, l, p, sp;
+            int[] stos_l = new int[t.Length],
+            stos_p = new int[t.Length]; // przechowywanie żądań podziału
+            sp = 0; stos_l[sp] = 0; stos_p[sp] = t.Length - 1; // rozpoczynamy od całej tablicy
+            do
+            {
+                l = stos_l[sp]; p = stos_p[sp]; sp--; // pobieramy żądanie podziału
+                do
+                {
+                    int x;
+                    i = l; j = p; x = t[(l + p) / 2]; // analogicznie do wersji rekurencyjnej
+                    do
+                    {
+                        while (t[i] < x) i++;
+                        while (x < t[j]) j--;
+                        if (i <= j)
+                        {
+                            int buf = t[i]; t[i] = t[j]; t[j] = buf;
+                            i++; j--;
+                        }
+                    } while (i <= j);
+                    if (i < p) { sp++; stos_l[sp] = i; stos_p[sp] = p; } // ewentualnie dodajemy żądanie podziału
+                    p = j;
+                } while (l < p);
+            } while (sp >= 0); // dopóki stos żądań nie będzie pusty
+            long EndingTime = Stopwatch.GetTimestamp();
+            long ElapsedTime = EndingTime - StartingTime;
+            double ElapsedSeconds = ElapsedTime * (1.0 / Stopwatch.Frequency);
+            pomiar = ElapsedSeconds;
+        }
+        void wynik(string[] args)
+        {
+
+        }
+        static void Main(string[] args)
+        {
+            int[] punkty = new int[] { 25000, 50000, 75000, 100000, 125000, 150000, 175000, 200000 };
+            for (int i = 0; i < 8; i++)
+            {
+
+                int[] inc = new int[punkty[i]];
+                GenInc(inc);
+
+                int[] dec = new int[punkty[i]];
+                GenDec(ref dec, inc);
+
+                int[] ran = new int[punkty[i]];
+                GenRan(ran);
+
+                int[] V_shaped = new int[punkty[i]];
+                GenV_shaped(V_shaped, punkty[i]);
+
+                int[] A_shaped = new int[punkty[i]];
+                GenA_shaped(A_shaped, punkty[i]);
+
+                
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Zakres elementów: " + punkty[i]);
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pomiar czasu tablicy rosnącej:");
+                Console.ForegroundColor = ConsoleColor.White;
+                InsertionSort(inc);
+                Console.WriteLine("Sortowanie przez wstawianie:\t  " + pomiar.ToString("F10") + "s");
+                SelectionSort(inc);
+                Console.WriteLine("Sortowanie przez wybieranie:\t  " + pomiar.ToString("F10") + "s");
+                CocktailSort(inc);
+                Console.WriteLine("Sortowanie koktailowe:\t\t  " + pomiar.ToString("F10") + "s");
+                HeapSort(inc);
+                Console.WriteLine("Sortowanie stogowe:\t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(inc, 1, punkty[i]-1);
+                Console.WriteLine("Sortowanie szybkie rekurencyjnie: " + pomiar.ToString("F10") + "s");
+                Qsortite(inc);
+                Console.WriteLine("Sortowanie szybkie iteracyjne: \t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine();
+
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pomiar czasu tablicy malejącej:");
+                Console.ForegroundColor = ConsoleColor.White;
+                InsertionSort(dec);
+                Console.WriteLine("Sortowanie przez wstawianie:\t  " + pomiar.ToString("F10") + "s");
+                SelectionSort(dec);
+                Console.WriteLine("Sortowanie przez wybieranie:\t  " + pomiar.ToString("F10") + "s");
+                CocktailSort(dec);
+                Console.WriteLine("Sortowanie koktailowe:\t\t  " + pomiar.ToString("F10") + "s");
+                HeapSort(dec);
+                Console.WriteLine("Sortowanie stogowe:\t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(dec, 1, punkty[i]-1);
+                Console.WriteLine("Sortowanie szybkie rekurencyjnie: " + pomiar.ToString("F10") + "s");
+                Qsortite(dec);
+                Console.WriteLine("Sortowanie szybkie iteracyjne: \t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine();
+
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pomiar czasu tablicy losowej:");
+                Console.ForegroundColor = ConsoleColor.White;
+                InsertionSort(ran);
+                Console.WriteLine("Sortowanie przez wstawianie:\t  " + pomiar.ToString("F10") + "s");
+                SelectionSort(ran);
+                Console.WriteLine("Sortowanie przez wybieranie:\t  " + pomiar.ToString("F10") + "s");
+                CocktailSort(ran);
+                Console.WriteLine("Sortowanie koktailowe:\t\t  " + pomiar.ToString("F10") + "s");
+                HeapSort(ran);
+                Console.WriteLine("Sortowanie stogowe:\t\t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine("Sortowanie szybkie rekurencyjnie: ");
+                Qsortreq(ran, 1, punkty[i] - 1);
+                Console.WriteLine("Klucz środkowy: \t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(ran, punkty[i] - 1, punkty[i] - 1);
+                Console.WriteLine("Klucz skrajnie prawy: \t\t  " + pomiar.ToString("F10") + "s");
+                Random rnd = new Random();
+                int randomIndex = rnd.Next(0,punkty[i]);
+                int randomIndex2 = rnd.Next(0,punkty[i]);
+                Qsortreq(ran,randomIndex,randomIndex2);
+                Console.WriteLine("Klucz losowy: \t\t\t  " + pomiar.ToString("F10") + "s");
+                Qsortite(ran);
+                Console.WriteLine("Sortowanie szybkie iteracyjne: \t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine();
+
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pomiar czasu tablicy V-kształtnej:");
+                Console.ForegroundColor = ConsoleColor.White;
+                InsertionSort(V_shaped);
+                Console.WriteLine("Sortowanie przez wstawianie:\t  " + pomiar.ToString("F10") + "s");
+                SelectionSort(V_shaped);
+                Console.WriteLine("Sortowanie przez wybieranie:\t  " + pomiar.ToString("F10") + "s");
+                CocktailSort(V_shaped);
+                Console.WriteLine("Sortowanie koktailowe:\t\t  " + pomiar.ToString("F10") + "s");
+                HeapSort(V_shaped);
+                Console.WriteLine("Sortowanie stogowe:\t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(V_shaped, 1, punkty[i]-1);
+                Console.WriteLine("Sortowanie szybkie rekurencyjnie: " + pomiar.ToString("F10") + "s");
+                Qsortite(V_shaped);
+                Console.WriteLine("Sortowanie szybkie iteracyjne: \t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine();
+
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Pomiar czasu tablicy A-kształtnej:");
+                Console.ForegroundColor = ConsoleColor.White;
+                InsertionSort(A_shaped);
+                Console.WriteLine("Sortowanie przez wstawianie:\t  " + pomiar.ToString("F10") + "s");
+                SelectionSort(A_shaped);
+                Console.WriteLine("Sortowanie przez wybieranie:\t  " + pomiar.ToString("F10") + "s");
+                CocktailSort(A_shaped);
+                Console.WriteLine("Sortowanie koktailowe:\t\t  " + pomiar.ToString("F10") + "s");
+                HeapSort(A_shaped);
+                Console.WriteLine("Sortowanie stogowe:\t\t  " + pomiar.ToString("F10") + "s");
+                Console.WriteLine("Sortowanie szybkie rekurencyjnie: ");
+                Qsortreq(A_shaped, 1, punkty[i] - 1);
+                Console.WriteLine("Klucz środkowy: \t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(A_shaped, punkty[i] - 1, punkty[i] - 1);
+                Console.WriteLine("Klucz skrajnie prawy: \t\t  " + pomiar.ToString("F10") + "s");
+                Qsortreq(A_shaped, randomIndex, randomIndex2);
+                Console.WriteLine("Klucz losowy: \t\t\t  " + pomiar.ToString("F10") + "s");
+                Qsortite(A_shaped);
+                Console.WriteLine("Sortowanie szybkie iteracyjne: \t  " + pomiar.ToString("F10") + "s");
+
+
+                
+            }
+            Console.ReadLine();
+        }
+    }
+}
