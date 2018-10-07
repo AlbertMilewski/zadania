@@ -1,0 +1,7 @@
+c:\users\qcur1\source\repos\adress v2\adress v2\bin\Debug\adress v2.exe.config
+c:\users\qcur1\source\repos\adress v2\adress v2\bin\Debug\adress v2.exe
+c:\users\qcur1\source\repos\adress v2\adress v2\bin\Debug\adress v2.pdb
+c:\users\qcur1\source\repos\adress v2\adress v2\obj\Debug\adress v2.csprojResolveAssemblyReference.cache
+c:\users\qcur1\source\repos\adress v2\adress v2\obj\Debug\adress v2.csproj.CoreCompileInputs.cache
+c:\users\qcur1\source\repos\adress v2\adress v2\obj\Debug\adress v2.exe
+c:\users\qcur1\source\repos\adress v2\adress v2\obj\Debug\adress v2.pdb
