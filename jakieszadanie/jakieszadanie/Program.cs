@@ -14,7 +14,7 @@ namespace jakieszadanie
 			Student student1 = new Student("Jadsadasn", "Koiii", 461526671);
 			Student student2 = new Student("Jaaassssssssssan", "Kowalii", 461526671);
             
-			Osoba osoba1 = new Student("Jan", "Borun",41442);
+			Osoba osoba1 = new Student("Jan", "Boafsfa",41442);
             
 
 			//Console.WriteLine(student.Imie + " " + student.Nazwisko+" "+student.NrIndeksu);
