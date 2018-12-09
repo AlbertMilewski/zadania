@@ -1,0 +1,11 @@
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.AssemblyInfoInputs.cache
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.AssemblyInfo.cs
+/Users/mac/Projects/jakieszadanie/jakieszadanie/bin/Debug/netcoreapp2.0/jakieszadanie.deps.json
+/Users/mac/Projects/jakieszadanie/jakieszadanie/bin/Debug/netcoreapp2.0/jakieszadanie.runtimeconfig.json
+/Users/mac/Projects/jakieszadanie/jakieszadanie/bin/Debug/netcoreapp2.0/jakieszadanie.runtimeconfig.dev.json
+/Users/mac/Projects/jakieszadanie/jakieszadanie/bin/Debug/netcoreapp2.0/jakieszadanie.dll
+/Users/mac/Projects/jakieszadanie/jakieszadanie/bin/Debug/netcoreapp2.0/jakieszadanie.pdb
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.dll
+/Users/mac/Projects/jakieszadanie/jakieszadanie/obj/Debug/netcoreapp2.0/jakieszadanie.pdb

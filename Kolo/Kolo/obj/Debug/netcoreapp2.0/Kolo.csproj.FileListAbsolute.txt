@@ -1,0 +1,11 @@
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.AssemblyInfoInputs.cache
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.AssemblyInfo.cs
+/Users/mac/Projects/Kolo/Kolo/bin/Debug/netcoreapp2.0/Kolo.deps.json
+/Users/mac/Projects/Kolo/Kolo/bin/Debug/netcoreapp2.0/Kolo.runtimeconfig.json
+/Users/mac/Projects/Kolo/Kolo/bin/Debug/netcoreapp2.0/Kolo.runtimeconfig.dev.json
+/Users/mac/Projects/Kolo/Kolo/bin/Debug/netcoreapp2.0/Kolo.dll
+/Users/mac/Projects/Kolo/Kolo/bin/Debug/netcoreapp2.0/Kolo.pdb
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.dll
+/Users/mac/Projects/Kolo/Kolo/obj/Debug/netcoreapp2.0/Kolo.pdb

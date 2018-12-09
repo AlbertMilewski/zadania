@@ -1,0 +1,11 @@
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.AssemblyInfoInputs.cache
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.AssemblyInfo.cs
+/Users/mac/Projects/Zadanie03/Zadanie03/bin/Debug/netcoreapp2.0/Zadanie03.deps.json
+/Users/mac/Projects/Zadanie03/Zadanie03/bin/Debug/netcoreapp2.0/Zadanie03.runtimeconfig.json
+/Users/mac/Projects/Zadanie03/Zadanie03/bin/Debug/netcoreapp2.0/Zadanie03.runtimeconfig.dev.json
+/Users/mac/Projects/Zadanie03/Zadanie03/bin/Debug/netcoreapp2.0/Zadanie03.dll
+/Users/mac/Projects/Zadanie03/Zadanie03/bin/Debug/netcoreapp2.0/Zadanie03.pdb
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.dll
+/Users/mac/Projects/Zadanie03/Zadanie03/obj/Debug/netcoreapp2.0/Zadanie03.pdb
