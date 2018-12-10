@@ -1,0 +1,11 @@
+/Users/mac/Projects/kooool/kooool/bin/Debug/netcoreapp2.0/kooool.deps.json
+/Users/mac/Projects/kooool/kooool/bin/Debug/netcoreapp2.0/kooool.runtimeconfig.json
+/Users/mac/Projects/kooool/kooool/bin/Debug/netcoreapp2.0/kooool.runtimeconfig.dev.json
+/Users/mac/Projects/kooool/kooool/bin/Debug/netcoreapp2.0/kooool.dll
+/Users/mac/Projects/kooool/kooool/bin/Debug/netcoreapp2.0/kooool.pdb
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.csprojResolveAssemblyReference.cache
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.AssemblyInfoInputs.cache
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.AssemblyInfo.cs
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.dll
+/Users/mac/Projects/kooool/kooool/obj/Debug/netcoreapp2.0/kooool.pdb
